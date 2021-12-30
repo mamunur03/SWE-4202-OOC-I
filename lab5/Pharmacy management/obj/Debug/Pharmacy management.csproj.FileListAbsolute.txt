@@ -1,0 +1,11 @@
+D:\2nd sem\Pharmacy management\obj\Debug\Pharmacy management.csproj.AssemblyReference.cache
+D:\2nd sem\Pharmacy management\obj\Debug\Pharmacy management.csproj.SuggestedBindingRedirects.cache
+D:\2nd sem\Pharmacy management\obj\Debug\Pharmacy_management.Form1.resources
+D:\2nd sem\Pharmacy management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\2nd sem\Pharmacy management\obj\Debug\Pharmacy management.csproj.GenerateResource.cache
+D:\2nd sem\Pharmacy management\obj\Debug\Pharmacy management.csproj.CoreCompileInputs.cache
+D:\2nd sem\Pharmacy management\bin\Debug\Pharmacy management.exe.config
+D:\2nd sem\Pharmacy management\bin\Debug\Pharmacy management.exe
+D:\2nd sem\Pharmacy management\bin\Debug\Pharmacy management.pdb
+D:\2nd sem\Pharmacy management\obj\Debug\Pharmacy management.exe
+D:\2nd sem\Pharmacy management\obj\Debug\Pharmacy management.pdb
