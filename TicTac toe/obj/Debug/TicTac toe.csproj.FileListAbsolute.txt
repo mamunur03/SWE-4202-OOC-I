@@ -1,0 +1,11 @@
+D:\2nd sem\TicTac toe\bin\Debug\TicTac toe.exe.config
+D:\2nd sem\TicTac toe\bin\Debug\TicTac toe.exe
+D:\2nd sem\TicTac toe\bin\Debug\TicTac toe.pdb
+D:\2nd sem\TicTac toe\obj\Debug\TicTac toe.csproj.AssemblyReference.cache
+D:\2nd sem\TicTac toe\obj\Debug\TicTac toe.csproj.SuggestedBindingRedirects.cache
+D:\2nd sem\TicTac toe\obj\Debug\TicTac_toe.Form1.resources
+D:\2nd sem\TicTac toe\obj\Debug\TicTac_toe.Properties.Resources.resources
+D:\2nd sem\TicTac toe\obj\Debug\TicTac toe.csproj.GenerateResource.cache
+D:\2nd sem\TicTac toe\obj\Debug\TicTac toe.csproj.CoreCompileInputs.cache
+D:\2nd sem\TicTac toe\obj\Debug\TicTac toe.exe
+D:\2nd sem\TicTac toe\obj\Debug\TicTac toe.pdb
