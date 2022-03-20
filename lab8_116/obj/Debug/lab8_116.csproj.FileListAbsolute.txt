@@ -1,0 +1,11 @@
+D:\2nd sem\lab8_116\bin\Debug\lab8_116.exe.config
+D:\2nd sem\lab8_116\bin\Debug\lab8_116.exe
+D:\2nd sem\lab8_116\bin\Debug\lab8_116.pdb
+D:\2nd sem\lab8_116\obj\Debug\lab8_116.csproj.AssemblyReference.cache
+D:\2nd sem\lab8_116\obj\Debug\lab8_116.csproj.SuggestedBindingRedirects.cache
+D:\2nd sem\lab8_116\obj\Debug\lab8_116.Form1.resources
+D:\2nd sem\lab8_116\obj\Debug\lab8_116.Properties.Resources.resources
+D:\2nd sem\lab8_116\obj\Debug\lab8_116.csproj.GenerateResource.cache
+D:\2nd sem\lab8_116\obj\Debug\lab8_116.csproj.CoreCompileInputs.cache
+D:\2nd sem\lab8_116\obj\Debug\lab8_116.exe
+D:\2nd sem\lab8_116\obj\Debug\lab8_116.pdb
