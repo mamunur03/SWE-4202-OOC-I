@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\LabTask07\bin\Debug\LabTask07.exe.config
+C:\Users\Asus\source\repos\LabTask07\bin\Debug\LabTask07.exe
+C:\Users\Asus\source\repos\LabTask07\bin\Debug\LabTask07.pdb
+C:\Users\Asus\source\repos\LabTask07\obj\Debug\LabTask07.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\LabTask07\obj\Debug\LabTask07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\LabTask07\obj\Debug\LabTask07.Form1.resources
+C:\Users\Asus\source\repos\LabTask07\obj\Debug\LabTask07.Properties.Resources.resources
+C:\Users\Asus\source\repos\LabTask07\obj\Debug\LabTask07.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\LabTask07\obj\Debug\LabTask07.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LabTask07\obj\Debug\LabTask07.exe
+C:\Users\Asus\source\repos\LabTask07\obj\Debug\LabTask07.pdb
